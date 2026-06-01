@@ -39,10 +39,6 @@ A simulated sales dataset containing:
 * Revenue peaked during January.
 * Product revenue is concentrated in a small number of high-value products.
 
-## Dashboard Preview
-
-![Dashboard](screenshots/image.png)
-
 ## Files
 
 * Sales_Revenue_Dashboard.pbix
